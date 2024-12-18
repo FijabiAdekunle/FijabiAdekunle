@@ -1,4 +1,4 @@
-<img src="https://imgur.com/IP9iDv1.jpg" alt="Marine Engineer" width="900" height='200'/>
+<img src="https://imgur.com/2RGJ6Jn.jpg" alt="Marine Engineer" width="900" height='190'/>
 
 <table>
   <tr>
