@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-<img src="https://i.imgur.com/B765ic7.jpg" alt="Alt text" width="400"/>    </td>
+<img src="https://i.postimg.cc/j59JmjLt/1000149079.jpg" alt="Logo" width="400"/>    </td>
     <td>
       <p>👋 Hi, I’m a Marine Engineer Turned Data Scientist</p>
       <p>⚙️ Combining years of experience in marine engineering with data-driven solutions.</p>
