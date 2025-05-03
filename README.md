@@ -71,7 +71,3 @@ Feel free to explore my work and connect with me professionally:
 - 💼 **LinkedIn:** [linkedin.com/in/fijabi-j-adekunle](https://www.linkedin.com/in/fijabi-j-adekunle)
 - 🐦 **X (Twitter):** [@FJ_d_explorer](https://x.com/FJ_d_explorer)
 - 📊 **Kaggle:** [jeleeladekunlefijabi](https://www.kaggle.com/jeleeladekunlefijabi)
-
-
----
-
