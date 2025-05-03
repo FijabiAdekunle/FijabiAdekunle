@@ -6,7 +6,7 @@
 
 📍 *Navigating Data | Unveiling Insights | Driving Impacts*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fijabi%20J.%20Adekunle-blue?logo=linkedin)](https://www.linkedin.com/in/fijabi-j-adekunle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fijabi%20J.%20Adekunle-blue?logo=linkedin)](https://www.linkedin.com/in/FiajbiAdekunle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-orange?logo=google)](https://sites.google.com/view/fijabijadekunle/home)
 [![Twitter](https://img.shields.io/badge/X-@FJ_d_explorer-1DA1F2?logo=twitter)](https://x.com/FJ_d_explorer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-FJ%20Adekunle-20BEFF?logo=kaggle)](https://www.kaggle.com/jeleeladekunlefijabi)
@@ -68,7 +68,7 @@
 Feel free to explore my work and connect with me professionally:
 
 - 🌐 **Portfolio:**[fijabijadekunle.site](https://sites.google.com/view/fijabijadekunle/home)
-- 💼 **LinkedIn:** [linkedin.com/in/fijabi-j-adekunle](https://www.linkedin.com/in/fijabi-j-adekunle)
+- 💼 **LinkedIn:** [linkedin.com/in/FiajbiAdekunle](https://www.linkedin.com/in/FiajbiAdekunle)
 - 🐦 **X (Twitter):** [@FJ_d_explorer](https://x.com/FJ_d_explorer)
 - 📊 **Kaggle:** [jeleeladekunlefijabi](https://www.kaggle.com/jeleeladekunlefijabi)
 
