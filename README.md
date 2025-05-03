@@ -8,7 +8,7 @@
       <p>👋 Hi, I’m a Marine Engineer Turned Data Scientist</p>
       <p>⚙️ Combining years of experience in marine engineering with data-driven solutions.</p>
      <p> 📫 How to reach me ..</p>
-     <p>📫 fijaytwo@gmail.com | 🌐 [My Kaggle Profile](http://www.kaggle.com/jeleeladekunlefijabi)</p>
+     <p>📫 fijaytwo@gmail.com | 🌐 (http://www.kaggle.com/jeleeladekunlefijabi)</p>
       <p>🔗 Connect with me on LinkedIn:  
     <a href="https://www.linkedin.com/in/fijabi-j-adekunle/" style="color: #0056b3; font-weight: bold;">linkedin.com/in/fijabi-j-adekunle/</a>
   </p>
