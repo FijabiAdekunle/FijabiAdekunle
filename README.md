@@ -61,7 +61,7 @@ Analyzed port efficiency metrics across regions using UNCTAD data, providing ins
 - 🌐 [Portfolio Website](https://sites.google.com/view/fijabijadekunle/home)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle)
 - 🐦 [X (Twitter)](https://x.com/FJ_d_explorer)
-- 📊 **Kaggle:** [jeleeladekunlefijabi](https://www.kaggle.com/jeleeladekunlefijabi)
+- 📊 [Kaggle](https://www.kaggle.com/jeleeladekunlefijabi)
 
 ---
 
