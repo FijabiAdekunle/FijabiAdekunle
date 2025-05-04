@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/j59JmjLt/1000149079.jpg" alt="Marine Engineer" width="900" height='190'/>
 
 ## 👋 Hi, I'm Fijabi J. Adekunle
 
