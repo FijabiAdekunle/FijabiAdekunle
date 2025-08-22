@@ -61,7 +61,7 @@ Analyzed port efficiency metrics across regions using UNCTAD data, providing ins
 ## 📬 Let's Connect
 Feel free to explore my work and connect with me professionally:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fijabijadekunle/home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fijabi-j-adekunle/inventory-stock-reorder-system)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fijabi-j-adekunle)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FJ_d_explorer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jeleeladekunlefijabi)
